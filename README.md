@@ -49,12 +49,19 @@ Known data issues
 Repository structure
 
 climate_grid_resilience/
+
 ├── README.md               ← you are here
+
 ├── raw_data/               ← original data, never edited
+
 ├── scripts/                ← notebooks, numbered in the order they run
+
 ├── clean_data/             ← cleaned data
+
 ├── metadata/               ← metadata for the datasets
+
 ├── outputs/                ← maps, plots, and tables 
+
 └── archive/                ← past versions of files
 
 How to run the code
